@@ -6,7 +6,7 @@ An Inventory Management and POS system for Guys and Gals Salon
 
 ## 📖 Project Description
 
-This project aims to provide Guys nad Gals Salon an Inventory Management system nad POS system. This projject allows you to manage product inventory, POS system, track daily and total income, track users, and track the amount of customers served.
+This project aims to provide Guys nad Gals Salon an Inventory Management system and POS system. This project allows you to manage product inventory, POS system, track daily and total income, track users, and track the amount of customers served.
 
 ---
 
